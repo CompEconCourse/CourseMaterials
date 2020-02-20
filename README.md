@@ -7,3 +7,5 @@ Lab assignments:
 3. https://classroom.github.com/a/izCCkfmo
 
 
+Final assignment: https://classroom.github.com/a/pvE0QkWH
+Deadline for submission of the final assignment: **March 8th, 2020, 23:55 Moscow time**
